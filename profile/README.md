@@ -2,8 +2,8 @@
 
 [![DOCS](https://img.shields.io/badge/DOCS-03BE09)](https://docs.iex.ec/)
 [![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://www.iex.ec/iexec-roadmap)
-[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/iexec_rlc_official)
-[![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5)](https://discord.com/invite/pbt9m98wnU)
+[![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-BE0303)](https://)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0087E5)](https://t.me/iexec_rlc_official)
 [![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.com/invite/pbt9m98wnU)
 
 > [iExec](https://iex.ec) is revolutionizing decentralized cloud computing by enabling developers to monetize their computing resources and execute workloads on a global, decentralized network.
@@ -53,8 +53,8 @@
 ### Get Started
 
 - Visit the [iExec Documentation](https://docs.iex.ec/) to start building with iExec.
-- Join the [iExec Developer Community](https://t.me/iexec_official) on Telegram.
-- Follow [iExec on Twitter](https://t.me/iexec_rlc_official) for updates.
+- Join the [iExec Community](https://t.me/iexec_official) on Telegram.
+- Follow [iExec on X](https://x.com/iEx_ec) for updates.
 - Need support? Reach out on [GitHub Discussions](https://github.com/iExecBlockchainComputing).
 
 > 🔐 Build the future of confidential computing with iExec!
