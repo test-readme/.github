@@ -16,7 +16,7 @@
 
 ## ⚡ Quick Start
 
-> Get started quickly with iExec's privacy-preserving technologies.
+> Get started quickly with iExec's Decentralized Data Protection.
 
 | Name              | Description                                                                                                  | Repo                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
