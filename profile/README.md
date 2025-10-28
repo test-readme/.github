@@ -2,7 +2,6 @@
 
 [![DOCS](https://img.shields.io/badge/DOCS-03BE09)](https://docs.iex.ec/)
 [![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://www.iex.ec/iexec-roadmap)
-[![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-BE0303)](https://)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-0087E5)](https://t.me/iexec_rlc_official)
 [![DISCORD](https://img.shields.io/badge/DISCORD-purple)](https://discord.com/invite/pbt9m98wnU)
 
